@@ -14,6 +14,7 @@ class MissionCard extends React.Component {
     );
   }
 }
+
 MissionCard.protoTypes = {
   name: PropTypes.string.isRequired,
   year: PropTypes.string.isRequired,
