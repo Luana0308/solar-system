@@ -1,3 +1,68 @@
 .body {
   background-image: url('images/background.png');
+  margin: 0;
+  padding: 0;
 }
+
+.titleh1 {
+  border: 1px solid black;
+  color: white;
+  font-family: Epilogue;
+  font-size: 40px;
+  font-style: normal;
+  line-height: 150%;
+  text-align: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.h2Titulos {
+  background: rgba(24, 26, 37, 0.5);
+  border: 1px solid white;
+  border-radius: 17px;
+  box-sizing: border-box;
+  color: white;
+  font-family: Epilogue;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  mix-blend-mode: hard-light;
+  text-align: center;
+}
+
+.planetName {
+  color: white;
+  font-size: 15px;
+}
+
+.planImage {
+  max-width: 90px;
+}
+
+.box-planet-card {
+  display: inline-block;
+}
+
+.box-mission-card {
+  border: white 1px solid;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  max-width: 200px;
+  min-width: 200px;
+  text-align: center;
+}
+
+.card-name {
+  color: white;
+  font-weight: 900;
+}
+
+.box-missions {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
