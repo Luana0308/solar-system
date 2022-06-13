@@ -1,8 +1,8 @@
-# Projeto Sistema Solar!
+# Projeto Sistema Solar! 🌌
 
 ---
 
-## Sumário
+## ✨ Sumário
 
 - [Requisitos do projeto]
 
@@ -19,7 +19,7 @@
 
 ---
 
-## Habilidades Desenvolvidas
+## ✨ Habilidades Desenvolvidas
 
   * Utilizar JSX no React
 
@@ -37,9 +37,9 @@
 
 ---
 
-## O que foi desenvolvido
+## ✨ O que foi desenvolvido
 
-Neste projeto você vai desenvolver um modelo do sistema solar! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
+Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
 
   * Visualizar todos os planetas do sistema solar renderizados na tela;
 
@@ -48,3 +48,5 @@ Neste projeto você vai desenvolver um modelo do sistema solar! Ao utilizar essa
 ---
 
 ## Gif do Site Desenvolvido 
+
+![](sistemaSolar.gif)
